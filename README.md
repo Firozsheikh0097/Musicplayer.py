@@ -1,2 +1,0 @@
-# Musicplayer.py
-Music Player
